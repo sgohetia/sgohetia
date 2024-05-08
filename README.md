@@ -7,7 +7,7 @@
 
 **`Computer Engineer (Web Developer/Designer/Digital Artist)`**
 
-I'm a self-taught passionate front-end developer and a digital artist, sharing my art of the digital world one step at a time. All coding projects are built from the class build and ground up assets, from planning and designing all the way to solving real-life problems with code.
+I'm a self-taught passionate front-end developer and a digital artist, sharing my art of the digital world one step at a time. Some coding projects are built from the class build and ground up assets, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
