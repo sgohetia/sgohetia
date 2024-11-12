@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17b045&random=false&width=435&lines=Web+Developer;UI/UX+Designer;Motion+Designer" alt="Typing SVG" /></a>
 </p>
 
-**`Computer Engineer (Web Developer/Designer/Digital Artist)`**
+**`Building seamless web experiences from front-end to back-end.`**
 
 A passionate Web Developer specializing in creating dynamic and responsive websites and applications. With a knack for clean code and innovative solutions, I aim to bridge the gap between user experience and technical functionality. Some coding projects are built from the class build and ground up assets, from planning and designing all the way to solving real-life problems with code.
 
