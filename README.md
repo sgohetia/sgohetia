@@ -1,6 +1,6 @@
 <!--# 🐲 Sheldon Gohetia -->
 <h1>
-  <img src="https://raw.githubusercontent.com/sgohetia/Gohetia_Sheldon_Portfolio/blob/main/images/mylogo.svg" alt="Logo" width="24" style="vertical-align: middle; margin-right: 8px;">
+  <img src="https://raw.githubusercontent.com/sgohetia/Gohetia_Sheldon_Portfolio/main/images/mylogo.svg" alt="Logo" width="24" style="vertical-align: middle; margin-right: 8px;">
   Sheldon Gohetia
 </h1>
 
