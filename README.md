@@ -10,7 +10,7 @@
 
 **`Building seamless web experiences from front-end to back-end.`**
 
-A passionate Web Developer specializing in creating dynamic and responsive websites and applications. With a knack for clean code and innovative solutions, I aim to bridge the gap between user experience and technical functionality. Some coding projects are built from the class build and ground up assets, from planning and designing all the way to solving real-life problems with code.
+I'm a UX and web developer with over 5 years of experience, dedicated to crafting intuitive digital solutions. My passion for design and functionality drives me to create user-friendly interfaces that enhance engagement. From concept to launch, I focus on details that elevate brands and deliver impactful user experiences.
 
 ---
 
