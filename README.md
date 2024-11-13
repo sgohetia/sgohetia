@@ -1,8 +1,8 @@
-<!--# 🐲 Sheldon Gohetia -->
-<h1>
-  <img src="[images/mylogo.svg](https://yt3.ggpht.com/tT15dAHuq2U5i29TOMwK4TmhN3BFrp9PiuZKUVAgVLAIG_Skdfzr0ZAxx25D_6krJnsnXK3sWw=s48-c-k-c0x00ffffff-no-rj)" alt="Logo" width="24" style="vertical-align: middle; margin-right: 8px;">
+# 🐲 Sheldon Gohetia 
+<!--<h1>
+  <img src="" alt="Logo" width="24" style="vertical-align: middle; margin-right: 8px;">
   Sheldon Gohetia
-</h1>
+</h1>-->
 
 <p>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
