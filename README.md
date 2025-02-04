@@ -10,7 +10,7 @@
 
 **`Building seamless web experiences from front-end to back-end.`**
 
-I'm a UX and web developer with over 5 years of experience, dedicated to crafting intuitive digital solutions. My passion for design and functionality drives me to create user-friendly interfaces that enhance engagement. From concept to launch, I focus on details that elevate brands and deliver impactful user experiences.
+I'm a front-end web developer with over 5 years of experience, dedicated to crafting intuitive digital solutions. My passion for design and functionality drives me to create user-friendly interfaces that enhance engagement. From concept to launch, I focus on details that elevate brands and deliver impactful user experiences.
 
 ## 🌐 Socials:
 
