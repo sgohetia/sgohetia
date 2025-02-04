@@ -22,7 +22,6 @@ I'm a front-end web developer with over 5 years of experience, dedicated to craf
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sgohetia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sgohetia&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repo
